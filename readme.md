@@ -20,7 +20,7 @@ git clone https://github.com/Okprime/motorway-test-backend.git
 npm install
 ```
 
-4. Run the app in development environment using this command
+3. Run the app in development environment using this command
 ```bash
 npm run start:dev
 
